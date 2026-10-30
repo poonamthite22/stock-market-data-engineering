@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+.aws/
+*.csv
+*.jsonl
+.ipynb_checkpoints/
+indexProcessed.csv
+stock_prices_raw.jsonl
